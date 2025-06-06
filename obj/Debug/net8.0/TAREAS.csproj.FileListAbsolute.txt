@@ -1,0 +1,15 @@
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\bin\Debug\net8.0\TAREAS.exe
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\bin\Debug\net8.0\TAREAS.deps.json
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\bin\Debug\net8.0\TAREAS.runtimeconfig.json
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\bin\Debug\net8.0\TAREAS.dll
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\bin\Debug\net8.0\TAREAS.pdb
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.AssemblyInfoInputs.cache
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.AssemblyInfo.cs
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.sourcelink.json
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.dll
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\refint\TAREAS.dll
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.pdb
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\TAREAS.genruntimeconfig.cache
+C:\Users\Gabriel Moquete\Documents\GitHub\TAREAS\obj\Debug\net8.0\ref\TAREAS.dll
